@@ -1,15 +1,19 @@
-# Invisible Text Generator (U+3164)
+# Invisible Text Generator 2026 (CopyInvisibleText)
 
-## Overview
-This project explains the logic behind the "Invisible Character" (Hangul Filler U+3164) used to send blank messages on WhatsApp, Discord, and Instagram.
+The advanced tool to generate **Invisible Text (U+3164)**, **Blank Space**, and **Empty Characters** for gamers and social media users.
 
-## How it Works
-The script utilizes the Unicode standard to bypass "empty string" validation checks in popular social media apps.
+## 🚀 Features
+- **Discord:** Create invisible usernames and roles.
+- **Free Fire / PUBG:** Generate "Space Names" that are valid in 2026.
+- **WhatsApp / Telegram:** Send blank messages to prank friends.
+- **Browser Extensions:** Now available for [Firefox](YOUR_FIREFOX_LINK) and Edge.
 
-## 📖 Documentation & Guides
-* **Full Tutorial & Usage:** [Read on Medium](https://medium.com/@copyinvisibletext/you-need-to-copy-the-hidden-character-first-3e4a0e192abf)
-* **Gaming Glitches (Among Us/PUBG):** [View PDF Guide](https://www.slideshare.net/slideshow/invisible-character-cheat-sheet-for-gamers/284477574)
-* **Developer Blog:** [Visit Project Blog](https://discord-blank-name-tricks.blogspot.com/2025/12/how-to-get-invisible-name-in-among-us.html)
+## 📥 How to Use
+1. Go to the official site: [https://copyinvisibletext.com](https://copyinvisibletext.com)
+2. Click the **"Copy"** button.
+3. Paste into your game or chat app.
 
-## License
-MIT License. Free to use.
+## 🛠️ Technical Details
+Uses the **Hangul Filler (U+3164)** and **Braille Pattern Empty (U+2800)** to bypass "empty name" restrictions.
+
+[Visit Official Website](https://copyinvisibletext.com)
